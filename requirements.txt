@@ -1,19 +1,15 @@
 
-json
-logging
 matplotlib
 nltk
 numpy
 pandas
 plotly
-re
 streamlit
-string
-unittest
 spacy
 scikit-learn
 textblob
 wordcloud
 fpdf
 docx
+
 
