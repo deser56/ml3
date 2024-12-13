@@ -5,7 +5,7 @@ numpy
 pandas
 plotly
 streamlit
-spacy
+spacy[cpu]
 scikit-learn
 textblob
 wordcloud
